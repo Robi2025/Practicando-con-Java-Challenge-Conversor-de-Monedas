@@ -56,7 +56,7 @@ El sistema se conecta a la API de ExchangeRate-API para obtener los datos más a
 ---
 
 ## 👥 Autores
-- **Crystian Muro** - Desarrollador del proyecto | 2025.
+- **Cristian henriquez** - Desarrollador del proyecto | 2025.
 
 ---
 ## 🤝 Contribuciones
